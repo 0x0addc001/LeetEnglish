@@ -12,3 +12,9 @@
 
 - Audio: All Ears English
 - Video: Studio Classroom
+
+### 20260104
+
+- Audio: All Ears English
+- Video: Studio Classroom
+- Vocab：不背单词
