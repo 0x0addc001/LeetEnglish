@@ -4,9 +4,9 @@
 
 ### 20260102
 
-- Audio: All Ears English
-- Video: Studio Classroom
-- Vocab：不背单词
+- All Ears English
+- Studio Classroom
+- 不背单词
 
 ### 20260103
 
@@ -15,10 +15,15 @@
 
 ### 20260104
 
-- Audio: All Ears English
-- Video: Studio Classroom
-- Vocab：不背单词
+- All Ears English
+- Studio Classroom
+- 不背单词
 
 ### 20260105
 
-- Audio: All Ears English
+- All Ears English
+
+### 20260107
+
+- All Ears English
+- 不背单词
