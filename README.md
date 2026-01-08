@@ -10,8 +10,8 @@
 
 ### 20260103
 
-- Audio: All Ears English
-- Video: Studio Classroom
+- All Ears English
+- Studio Classroom
 
 ### 20260104
 
@@ -27,3 +27,8 @@
 
 - All Ears English
 - 不背单词
+
+### 20260108
+
+- All Ears English
+- TED
