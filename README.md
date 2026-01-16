@@ -45,3 +45,8 @@
 ### 20260115
 
 - All Ears English
+
+### 20260116
+
+- All Ears English
+- 不背单词
