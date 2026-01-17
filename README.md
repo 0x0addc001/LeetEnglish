@@ -50,3 +50,8 @@
 
 - All Ears English
 - 不背单词
+
+### 20260117
+
+- GPT
+- All Ears English
